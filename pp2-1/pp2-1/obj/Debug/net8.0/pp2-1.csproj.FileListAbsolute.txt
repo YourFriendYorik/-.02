@@ -1,0 +1,14 @@
+C:\Users\Ярослав\source\repos\pp2-1\pp2-1\bin\Debug\net8.0\pp2-1.exe
+C:\Users\Ярослав\source\repos\pp2-1\pp2-1\bin\Debug\net8.0\pp2-1.deps.json
+C:\Users\Ярослав\source\repos\pp2-1\pp2-1\bin\Debug\net8.0\pp2-1.runtimeconfig.json
+C:\Users\Ярослав\source\repos\pp2-1\pp2-1\bin\Debug\net8.0\pp2-1.dll
+C:\Users\Ярослав\source\repos\pp2-1\pp2-1\bin\Debug\net8.0\pp2-1.pdb
+C:\Users\Ярослав\source\repos\pp2-1\pp2-1\obj\Debug\net8.0\pp2-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ярослав\source\repos\pp2-1\pp2-1\obj\Debug\net8.0\pp2-1.AssemblyInfoInputs.cache
+C:\Users\Ярослав\source\repos\pp2-1\pp2-1\obj\Debug\net8.0\pp2-1.AssemblyInfo.cs
+C:\Users\Ярослав\source\repos\pp2-1\pp2-1\obj\Debug\net8.0\pp2-1.csproj.CoreCompileInputs.cache
+C:\Users\Ярослав\source\repos\pp2-1\pp2-1\obj\Debug\net8.0\pp2-1.dll
+C:\Users\Ярослав\source\repos\pp2-1\pp2-1\obj\Debug\net8.0\refint\pp2-1.dll
+C:\Users\Ярослав\source\repos\pp2-1\pp2-1\obj\Debug\net8.0\pp2-1.pdb
+C:\Users\Ярослав\source\repos\pp2-1\pp2-1\obj\Debug\net8.0\pp2-1.genruntimeconfig.cache
+C:\Users\Ярослав\source\repos\pp2-1\pp2-1\obj\Debug\net8.0\ref\pp2-1.dll
